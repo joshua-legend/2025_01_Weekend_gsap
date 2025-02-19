@@ -1,0 +1,10 @@
+section {
+  width: 100vw;
+  height: 100vh;
+  /* border: 1px solid red; */
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: skyblue;
+}
